@@ -83,7 +83,7 @@ Step-by-Step Installation
 Clone the repository:
 code
 Bash
-git clone https://github.com/your-username/esg-impact-platform.git
+git clone https://github.com/kirti095/esg-impact-platform.git
 cd esg-impact-platform
 
 ⚠️ Windows Users Note: Avoid naming your local directory with special symbols like & (for example, avoid ESG & Investment), as Windows Command Prompt/PowerShell may parse & as a command delimiter. Use esg-impact-platform instead.
