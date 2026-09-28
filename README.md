@@ -8,7 +8,6 @@ Evaluating 35+ multinational corporations across 8 sectors, the platform provide
 Live Working Application: 👉 https://esg-platform-dashboard.vercel.app/
 
 🚀 Live Demo & Key Highlights
-🔗 Live Link: https://ais-pre-upbvyz5vind3ol6dzxrba3-465323210284.asia-southeast1.run.app
 ⚡ Instant Assessment: Real-time calculated ESG scores with letter-grade distribution (AAA to CCC).
 📉 Decarbonization Trajectories: 2021–2024 emissions decline trajectories plotted alongside renewable energy adoption.
 🎯 Radar Peer Benchmarking: Multi-axial radar chart contrasting corporate pillars against live industry cohort averages.
