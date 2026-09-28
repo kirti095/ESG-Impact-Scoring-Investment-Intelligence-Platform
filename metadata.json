@@ -1,0 +1,7 @@
+{
+  "name": "ESG Impact Scoring & Investment Intelligence Platform",
+  "description": "Institutional ESG analytics platform auditing 1,400+ quantitative records across 35 enterprise companies, featuring LSEG Refinitiv Eikon ESG Terminal, Mercatus PE Fund Dashboard, and Power BI Desktop Workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
